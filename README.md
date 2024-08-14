@@ -2,13 +2,13 @@
 ## Hello, I'm Marco Dev 👋
 Front-End Developer passionate about creating modern, intuitive and responsive web interfaces.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoLc94&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoLc94&layout=compact&theme=radical)
 
-![Commit streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical)
+![Commit streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcoLc94&theme=radical)
 
-![Visitas](https://komarev.com/ghpvc/?username=tu-usuario&color=brightgreen)
+![Visitas](https://komarev.com/ghpvc/?username=MarcoLc94&color=brightgreen)
 
 ## Contacto
 - [LinkedIn](https://www.linkedin.com/in/marcolc94/)
