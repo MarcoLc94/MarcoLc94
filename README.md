@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**MarcoLc94/MarcoLc94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm Marco Dev 👋
+Front-End Developer passionate about creating modern, intuitive and responsive web interfaces.
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+
+![Commit streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical)
+
+![Visitas](https://komarev.com/ghpvc/?username=tu-usuario&color=brightgreen)
+
+## Contacto
+- [LinkedIn](https://www.linkedin.com/in/marcolc94/)
+- [Portfolio](https://marco-dev-site.netlify.app/)
+- Email: mlop.dev@outlook.com 📧
+
+😁 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! No dudes en contactarme o explorar más de mi trabajo.
