@@ -9,7 +9,7 @@ Front-End Developer passionate about creating modern, intuitive and responsive w
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoLc94&layout=compact&theme=radical)
 
 ## 📊 Commits counter:
-![Commit streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcoLc94&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MarcoLc94)](https://git.io/streak-stats)
 
 ## 👥️ Visits:
 ![Visitas](https://komarev.com/ghpvc/?username=MarcoLc94&color=brightgreen)
