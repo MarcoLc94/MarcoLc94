@@ -16,7 +16,7 @@ Front-End Developer passionate about creating modern, intuitive and responsive w
 
 ## 🤝 Contact:
 - [LinkedIn](https://www.linkedin.com/in/marcolc94/)
-- [Portfolio](https://marco-dev-site.netlify.app/)
+- [Portfolio](https://marco-dev.com)
 - Email: mlop.dev@outlook.com 📧
 
 😁 I am open to new opportunities and collaborations! Feel free to contact me or explore more of my work.
