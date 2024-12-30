@@ -6,7 +6,7 @@ Front-End Developer passionate about creating modern, intuitive and responsive w
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoLc94&show_icons=true&theme=radical)
 
 ## 💻 Most used languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoLc94&layout=compact&theme=radical&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoLc94&layout=compact&theme=radical&hide=html,css,cmake)
 
 
 ## 📊 Commits counter:
