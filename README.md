@@ -28,11 +28,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
-## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoLc94&show_icons=true&theme=radical&v=1)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoLc94&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoLc94&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoLc94&layout=compact&theme=radical&v=1)
 
 
 ---
