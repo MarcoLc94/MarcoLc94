@@ -29,15 +29,11 @@
 
 
 ## 📈 GitHub Stats
-<p align="center">
-<img
-  src="https://github-readme-stats.vercel.app/api?username=MarcoLc94&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoLc94&layout=compact&theme=radical&hide_border=true"
-/>
 
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoLc94&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoLc94&layout=compact&theme=radical)
+
 
 ---
 
