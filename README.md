@@ -23,15 +23,14 @@
 ### Back-End
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoLc94&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoLc94&layout=compact&theme=transparent)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoLc94&show_icons=true&theme=transparent&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoLc94&layout=compact&theme=transparent&cache_seconds=86400)
 ---
 
 ## 🔥 GitHub Streak
