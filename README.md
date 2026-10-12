@@ -1,7 +1,7 @@
 ## Hello, I'm Marco Dev! 👋  
 **Web & Mobile Developer** passionate about creating modern, intuitive, and responsive web interfaces.
 ## 🧠 About Me
-- 🚀 Front-End focused (Angular, modern JS)
+- 🚀 Full stack web & mobile
 - 🧩 Enjoy clean architecture & UI/UX
 - 🌱 Always learning new web technologies
 ---
